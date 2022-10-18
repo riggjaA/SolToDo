@@ -10,7 +10,7 @@ const Home = () => {
 
 
     return (
-        <div className={styles.container}>
+        <div className={styles.container}> 
             <div className={styles.actionsContainer}>
                 {initialized ? (
                     <div className={styles.todoInput}>
